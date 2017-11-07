@@ -2,3 +2,4 @@
 First repo for the new class
 
 Hello, my name is Brandon DeGraffenreid
+I'm a bad ass
